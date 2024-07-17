@@ -3,7 +3,6 @@ import Item from "./pages/item.js";
 import Favorites from "./pages/favorites.js";
 
 const router = new Navigo(null, true, "#");
-console.log(router);
 
 export default class RouterHandler {
     constructor() {
